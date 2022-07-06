@@ -1,0 +1,11 @@
+# email.txt
+
+<html>
+  <body>
+    <ul>
+      <li> <a href="mailto:gdhong@hanmail.net">Gildong Hong</a>
+      <li> <a href="mailto:yhkim@naver.com">Younghee Kim</a>
+      <li> <a href="mailto:gsjang@gmail.com">Gilsan Jang</a>
+    </ul>
+  </body>
+</html>
