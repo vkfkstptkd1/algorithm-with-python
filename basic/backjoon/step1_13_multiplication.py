@@ -1,0 +1,10 @@
+a=int(input())
+b=int(input())
+
+f=(b%10)
+s=(((b%100)-f)//10)
+t=(b//100)
+print(a*f)
+print(a*s)
+print(a*t)
+print(a*b)
